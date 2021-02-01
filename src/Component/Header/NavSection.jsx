@@ -14,11 +14,11 @@ export const NavSection = () => {
       <Nav.Link href="#link">Academics </Nav.Link>
       <NavDropdown title="" id="basic-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">COLLEGE OF ENGINEERING</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.2">COLLEGE OF COMPUTER ENGINEERING & SCIENCES</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.2">COLLEGE OF COMPUTER ENGINEERING AND SCIENCES</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.3">COLLEGE OF BUSINESS ADMINISTRATION</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.1">COLLEGE OF LAW</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.1">COLLEGE OF ARCHITECTURE AND DESIGN</NavDropdown.Item>
-        <NavDropdown.Item href="#action/3.1">COLLEGE OF SCIENCES & HUMAN STUDIES</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.1">COLLEGE OF SCIENCES AND HUMAN STUDIES</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.1">PREPARATORY PROGRAM</NavDropdown.Item>
         <NavDropdown.Divider />
       </NavDropdown>
