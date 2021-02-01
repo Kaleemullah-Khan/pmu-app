@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+}#basic-navbar-nav{
+  background-color: #61dafb;
+  border-radius:20px ;
+}
+#root > div > div:nth-child(3) > div{
+  text-align: center;
+}
+#basic-navbar-nav > div > a{
+  color: white;
+}
+#root > div > div:nth-child(2) > div > img{
+  width: 100%;
 }

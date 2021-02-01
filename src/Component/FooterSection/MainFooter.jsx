@@ -9,7 +9,7 @@ export const MainFooter = () => {
         <div>
             <Jumbotron>
       <Row>
-                    <Col lg={9}>
+                    <Col lg={4}>
                         <h3>Stay Connected With Us</h3>
                         <FacebookIcon color="blue" style={{ fontSize: 35 }} /> 
                         <YouTubeIcon style={{ fontSize: 35 }} /> 
