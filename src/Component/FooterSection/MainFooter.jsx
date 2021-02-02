@@ -11,10 +11,10 @@ export const MainFooter = () => {
       <Row>
                     <Col lg={4}>
                         <h3>Stay Connected With Us</h3>
-                        <FacebookIcon color="blue" style={{ fontSize: 35 }} /> 
-                        <YouTubeIcon style={{ fontSize: 35 }} /> 
-                        <TwitterIcon style={{ fontSize: 35 }} />
-                         <TelegramIcon style={{ fontSize: 35 }} />
+                        <FacebookIcon /> 
+                        <YouTubeIcon /> 
+                        <TwitterIcon />
+                         <TelegramIcon />
                      </Col>
       </Row>
       <hr/>

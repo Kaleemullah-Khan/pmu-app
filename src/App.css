@@ -48,3 +48,6 @@
 #root > div > div:nth-child(2) > div > img{
   width: 100%;
 }
+.pmu{
+    float: right;
+}
