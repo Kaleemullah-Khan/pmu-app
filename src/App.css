@@ -51,3 +51,6 @@
 .pmu{
     float: right;
 }
+#root > div > div:nth-child(2) > div > div.col-lg-4 > div > div.card-body > p{
+  text-align: justify;
+}
