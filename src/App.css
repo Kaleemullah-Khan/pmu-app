@@ -36,8 +36,8 @@
     transform: rotate(360deg);
   }
 }#basic-navbar-nav{
-  background-color: #61dafb;
-  border-radius:20px ;
+  background-color:rgba(31, 77, 177, 0.692);
+  width: 100%;
 }
 #root > div > div:nth-child(3) > div{
   text-align: center;
